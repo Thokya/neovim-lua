@@ -22,4 +22,4 @@ This is my personal NeoVom configuration in Lua. I use it on daily basis for all
 To use this configuration, simply copy the `init.lua` file to your NeoVim configuration directory. By default, this is located at `~/.config/nvim`.
 
 # Conclusion
-I hope you find it useful too. If you have any questions or suggestionsk, feel free to open an issue on this repository.
+I hope you find it useful too. If you have any questions or suggestions, feel free to open an issue on this repository.
