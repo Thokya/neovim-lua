@@ -13,10 +13,10 @@ This is my personal NeoVom configuration in Lua. I use it on daily basis for all
 
 ## Installation
 To install this configuration on your own machine, follow these steps
-    1. Clone this repository to your local machine using `git clone`.
-    2. Install NeoVim if you haven't already done so.
-    3 . Install the `packer` plugin manager by running `git clone https://github.com/wbthomason/packer.nvim ~/.local/share/nvim/site/pack/packer/start/packer.nvim/`.
-    4. Open NeoVim and run `:PackerSync` to instll all plugins
+    * 1. Clone this repository to your local machine using `git clone`.
+    * 2. Install NeoVim if you haven't already done so.
+    * 3 . Install the `packer` plugin manager by running `git clone https://github.com/wbthomason/packer.nvim ~/.local/share/nvim/site/pack/packer/start/packer.nvim/`.
+    * 4. Open NeoVim and run `:PackerSync` to instll all plugins
 
 # Usage
 To use this configuration, simply copy the `init.lua` file to your NeoVim configuration directory. By default, this is located at `~/.config/nvim`.
